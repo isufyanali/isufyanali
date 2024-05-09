@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Techmetascore](https://www.techmetascore.com/)
+- 🔭 I’m currently working as a ReactJS developer at [Anemoia.dev](https://www.anemoia.dev).
 
-- 🌱 \*ReactJS | NextJS | Tailwind CSS | Material UI | Redux | TypeScript\*\*
+- 🌱 **ReactJS** | **NextJS** | **Tailwind CSS** | **Material UI** | **Redux** | **TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p>Email: <a href="mailto:example@example.com">alisheikh15248@gmail.com</a></p>
