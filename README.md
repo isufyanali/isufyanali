@@ -7,6 +7,8 @@
 
 - 🌱 **ReactJS** | **NextJS** | **Tailwind CSS** | **Material UI** | **Redux** | **TypeScript**
 
+<h3 align="left">Stats:</h3>
+<img src = "https://github-readme-stats.vercel.app/api?username=isufyanali&show_icons=true&theme=radical"/>
 <h3 align="left">Connect with me:</h3>
 <p>Email: <a href="mailto:example@example.com">alisheikh15248@gmail.com</a></p>
 
