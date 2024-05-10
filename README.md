@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="center">
-  <a href="mailto:alisheikh15248@gmail.com">Email</a>
+  <a href="mailto:alisheikh15248@gmail.com">Email : alisheikh15248@gmail.com </a>
 </p>
 
 <p align="center">
