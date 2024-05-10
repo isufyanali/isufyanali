@@ -11,14 +11,14 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=isufyanali&show_icons=true&theme=radical"/>
  <!--- Readme Stats --->
   <a href="https://github.com/isufyanali/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=isufyanali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=isufyanali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" />
   </a>
   <a href="https://github.com/isufyanali/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=isufyanali&layout=compact&langs_count=8&hide=Smarty&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=isufyanali&layout=compact&langs_count=8&hide=Smarty&theme=radical&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" />
   </a>
   <!--- Readme Contributions --->
   <a href="https://git.io/streak-stats" target="_blank">
-    <img align="center" src="https://streak-stats.demolab.com?user=isufyanali&hide_border=true&border_radius=15&fire=FFAFCC&ring=5BCEFAD7&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=C4E66E&sideLabels=BBC972&dates=CAB59C&stroke=C0AA9253&background=00000000" alt="GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=isufyanali&hide_border=true&border_radius=15&fire=FFAFCC&ring=5BCEFAD7&currStreakNum=FFAFCC&theme=radical&sideNums=FFAFCC&currStreakLabel=C4E66E&sideLabels=BBC972&dates=CAB59C&stroke=C0AA9253&background=00000000" alt="GitHub Streak" />
   </a>
 <h3 align="left">Connect with me:</h3>
 <p>Email: <a href="mailto:example@example.com">alisheikh15248@gmail.com</a></p>
