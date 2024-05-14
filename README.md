@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=isufyanali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats?username=isufyanali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=isufyanali&layout=compact&langs_count=8&hide=Smarty&theme=radical&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats/?username=isufyanali&layout=compact&langs_count=8&hide=Smarty&theme=radical&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="center">
